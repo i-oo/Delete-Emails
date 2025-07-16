@@ -1,0 +1,5 @@
+--- Efficiency Report ---
+Deleted 1821 of 3610 emails containing 'unsubscribe'
+Elapsed Time: 4802.79 seconds
+Processing Speed: 0.75 emails/second
+Approx. Memory Usage: 0.73 MB
