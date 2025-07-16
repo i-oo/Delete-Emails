@@ -1,3 +1,5 @@
+# Ctrl (Cmd) + H to replace "unsubscribe" with "your keyword"
+
 import imaplib # Works on Windows/Linux/Unix-like {pip install imaplib}
 import email
 from email.header import decode_header
