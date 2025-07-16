@@ -7,9 +7,9 @@ import time
 import psutil   # Works on Windows/Linux/Mac {pip install psutil}
 
 # Your email credentials
-EMAIL = "siromion@gmail.com"
-PASSWORD = "jqjx ofbt usvx ndcw"
-IMAP_SERVER = "imap.gmail.com"
+EMAIL = "your-email@domain.com"
+PASSWORD = "app_password"  # Use an app password if 2FA is enabled
+IMAP_SERVER = "imap.gmail.com" #imap.your-email-provider.com
 IMAP_PORT = 993
 
 def safe_decode_header(raw_header):
